@@ -1,0 +1,39 @@
+#title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin: 40px 0;
+    flex-direction: column;
+}
+
+#title p {
+    font-size: 42px;
+    color: #705C58;
+}
+
+#post-content {
+    padding: 40px 32px;
+    border-radius: 8px;
+    background-color: #8D6E68;
+    font-size: 24px;
+    color: white;
+    line-height: 32px;
+
+}
+
+#logs {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+#content {
+    background-color: #E9E4D3;
+}
+
+html,
+body {
+    background-color: #695450;
+}

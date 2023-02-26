@@ -1,0 +1,30 @@
+#content {
+    gap: 160px;
+}
+
+#content>div {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#content>div>div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+#thirdGroup {
+    width: 800px !important;
+}
+
+#content>div>div p {
+    color: #423532;
+    font-size: 24px;
+}
+
+#medium-menu {
+    padding-left: 209px;
+}
