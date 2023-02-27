@@ -1,15 +1,12 @@
 {
   "folders": [
-	{
-		"path": "../../../../../vue-learning"
-	},
-	{
-		"path": "../../../.."
-	},
-	{
-		"path": "../../../../../../../Desktop/CV-master"
-	}
-],
+    {
+      "path": "../../../../../vue-learning"
+    },
+    {
+      "path": "../../../.."
+    }
+  ],
   "settings": {
     "liveServer.settings.multiRootWorkspaceName": "Integrating Vue into Django"
   }
