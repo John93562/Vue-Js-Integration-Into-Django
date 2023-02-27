@@ -10,8 +10,9 @@ https://www.figma.com/file/Xahqk9UdEoBprAso3UXzIv/Vue-Integration-into-Django?no
 
 
 
-![Frame 7](https://user-images.githubusercontent.com/63431776/221548538-8c48583b-ba40-4a73-af5f-ca120807e043.png)
+![Frame 7 (1)](https://user-images.githubusercontent.com/63431776/221548672-21eb4eb3-6746-463a-9810-942208bd7c32.png)
 
 
 
 ![MacBook Air - 1](https://user-images.githubusercontent.com/63431776/221548173-9bfa87f1-cf44-4679-b1a1-e0ef1c23db04.png)
+
