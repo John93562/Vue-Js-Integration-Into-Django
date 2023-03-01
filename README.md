@@ -1,4 +1,7 @@
-# Presentation about Vue.js integration to Django
+# Tutorial about Vue.js integration to Django
+
+We will see how to build a start to finish Django REST API and also explain intermediate topics about Vue. 
+I also give resources where needed.
 
 You can see the full presentation here:  <br />
 [Presentation](https://www.figma.com/proto/Xahqk9UdEoBprAso3UXzIv/Vue-Integration-into-Django?node-id=6%3A2&scaling=contain&page-id=5%3A2&starting-point-node-id=6%3A2)
